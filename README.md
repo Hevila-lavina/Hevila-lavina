@@ -1,10 +1,10 @@
 ## Olá! Sou Hevila Lavina. Seja bem vindo(a) ao meu Github! 👋
 
 - 👩🏻‍💻 Tenho 18 anos. Eterna estudante de programação.
-- 🌱 Tornei-me amante da área através do meu primeiro contato com a linguagem C na Universidade.
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (2° Período).
+- 🌱 Tornei-me amante da área através do meu primeiro contato com a linguagem Java na Universidade.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° Período).
 - 🔭 A procura de estágio ou primeira experiência de trabalho!
-- 📌 Atualmente estou aprendendo Java. Tendo Back-End como foco principal e me aprofundando em Banco de Dados.
+- 📌 Atualmente estou aprendendo Python. Tendo Data Analytcs como foco principal e obtendo o básico em Data Science.
 
 ##
 
