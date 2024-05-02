@@ -1,10 +1,10 @@
 ## Olá! Sou Hevila Lavina. Seja bem vindo(a) ao meu Github! 👋
 
-- 👩🏻‍💻 Tenho 18 anos. Eterna estudante de programação.
-- 🌱 Tornei-me amante da área através do meu primeiro contato com a linguagem Java na Universidade.
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (3° Período).
-- 🔭 A procura de estágio ou primeira experiência de trabalho!
-- 📌 Atualmente estou aprendendo Python. Tendo Data Analytcs como foco principal e obtendo o básico em Data Science.
+- 👩🏻‍💻 Tenho 20 anos. Iniciante na área de Engenharia de Dados.
+- 🌱 Tornei-me amante da área através do meu primeiro contato com a linguagem Python na Universidade.
+- 📚 Formada em Análise e Desenvolvimento de Sistemas.
+- 🔭 A procura de primeira experiência de trabalho!
+- 📌 Atualmente estou aprimorando criação e otimização de Pipeline de Dados e ETL. Tendo Data Engineer como foco principal e obtendo o básico em Data Science.
 
 ##
 
